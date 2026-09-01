@@ -1,3 +1,0 @@
-streamlit
-earthengine-api
-geemap
